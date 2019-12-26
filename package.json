@@ -1,0 +1,17 @@
+{
+  "name": "chatapp",
+  "version": "2.3.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "socket.io": "^2.2.0"
+  },
+  "dependencies": {
+    "nodemon": "^2.3.0"
+  }
+}
